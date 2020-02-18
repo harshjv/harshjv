@@ -1,0 +1,25 @@
+{
+  "name": "harshjv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "harshjv": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshjv/harshjv.git"
+  },
+  "author": "Harsh Vakharia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshjv/harshjv/issues"
+  },
+  "homepage": "https://github.com/harshjv/harshjv#readme",
+  "engines": {
+    "node": "^12.14.1"
+  },
+  "dependencies": {
+    "colorette": "^1.1.0"
+  }
+}
