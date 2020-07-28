@@ -1,7 +1,5 @@
-# npx harshjv [![Version](https://img.shields.io/npm/v/harshjv)](https://www.npmjs.com/package/harshjv) [![Downloads](https://img.shields.io/npm/dm/harshjv)](https://www.npmjs.com/package/harshjv) [![License](https://img.shields.io/npm/l/harshjv)](https://www.npmjs.com/package/harshjv)
+[![Version](https://imgs.xkcd.com/comics/time_machine.png)](https://xkcd.com/716/)
 
-
-## Usage
 
 ```bash
 npx harshjv
@@ -17,8 +15,3 @@ Harsh Vakharia / harshjv / harshjv.com
         Email: hello@harshjv.com
          Card: npx harshjv
 ```
-
-
-## License
-
-[MIT](./LICENSE.md)
