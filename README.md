@@ -1,4 +1,6 @@
-[![Version](https://imgs.xkcd.com/comics/time_machine.png)](https://xkcd.com/716/)
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
+</p>
 
 
 ```bash
