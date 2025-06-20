@@ -9,7 +9,7 @@ npx harshjv
 ```
 Harsh Vakharia / harshjv / harshjv.com
 
-         Work: AI http://vibecheck.so • Hodler http://etherbit.in/about • Banker http://bitcoin.help • SaaS http://superchargify.com
+         Work: AI vibecheck.so • Hodler etherbit.in/about • Banker bitcoin.help • SaaS superchargify.com
        Github: harshjv
       Twitter: @harshjv
      LinkedIn: linkedin.com/in/harshjv
