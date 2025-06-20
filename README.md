@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="Time Machine">
+  <img src="https://imgs.xkcd.com/comics/time_machine.png" alt="XKCD 716">
 </p>
 
 
