@@ -3,9 +3,6 @@
 </p>
 
 
-```bash
-npx harshjv
-```
 ```
 Harsh Vakharia / harshjv / harshjv.com
 
