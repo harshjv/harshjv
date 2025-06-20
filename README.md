@@ -9,11 +9,11 @@ npx harshjv
 ```
 Harsh Vakharia / harshjv / harshjv.com
 
-         Work: ConsenSys, Software Engineer
+         Work: AI http://vibecheck.so • Hodler http://etherbit.in/about • Banker http://bitcoin.help • SaaS http://superchargify.com
        Github: harshjv
       Twitter: @harshjv
      LinkedIn: linkedin.com/in/harshjv
 
-        Email: hello@harshjv.com
+        Email: harshjv@gmail.com
          Card: npx harshjv
 ```
